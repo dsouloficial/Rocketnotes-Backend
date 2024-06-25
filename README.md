@@ -1,6 +1,6 @@
 <h1 align="center">🌐 Rocket Notes</h1>
 
-![image](/assets/287790227-1d3aeb53-965c-4c66-b90c-403203a5226c.png)
+![image](./assets/287790227-1d3aeb53-965c-4c66-b90c-403203a5226c.png)
 
 
 
@@ -20,17 +20,17 @@
 <h3 align="center">⭐ Fazer a criação e atualização de usuários com IDs únicos!</h3>
 
 <p align="center">
-  <img width="700px" src="/assets/287793361-732acd6a-125a-4533-8df0-362de82c3341.png">
+  <img width="700px" src="./assets/287793361-732acd6a-125a-4533-8df0-362de82c3341.png">
 </p>
 
 <h3 align="center">⭐ Criação, visualização e exclusão de Notas vinculadas aos usuários!</h3>
 <p align="center">
-  <img width="700px" src="/assets/287793658-9f372a88-2101-4ed5-b1c6-e356b89ce4a3.png">
+  <img width="700px" src="./assets/287793658-9f372a88-2101-4ed5-b1c6-e356b89ce4a3.png">
 </p>
 
 <h3 align="center">⭐ Verificação de cada etapa retornando mensagem de erro personalizada para cada situação!</h3>
 <p align="center">
-  <img width="700px" src="/assets/287793822-bdc319bc-09bd-42c9-9b8b-56ead77cab2a.png">
+  <img width="700px" src="./assets/287793822-bdc319bc-09bd-42c9-9b8b-56ead77cab2a.png">
 </p>
 
 
